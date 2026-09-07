@@ -36,7 +36,7 @@
   <script src="/OnlineFoodDelivery/js/bootstrap-datepicker.js"></script>
   <script src="/OnlineFoodDelivery/js/jquery.timepicker.min.js"></script>
   <script src="/OnlineFoodDelivery/js/scrollax.min.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=MAP_KEY"></script>
   <script src="/OnlineFoodDelivery/js/google-map.js"></script>
   <script src="/OnlineFoodDelivery/js/main.js"></script>
 </body>
